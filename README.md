@@ -1,0 +1,1 @@
+This project utilizes CSS Grid to recreate a Mondrian-style painting. By leveraging the grid system, I have arranged colored blocks in a structured yet abstract layout, mimicking the geometric compositions of Piet Mondrian. The project effectively demonstrates the power of CSS Grid in creating complex, visually appealing designs.
